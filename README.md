@@ -18,6 +18,7 @@
 ##
 - Arquivo .ENV
   <img width="99" height="21" alt="image" src="https://github.com/user-attachments/assets/b5ac6c7e-244b-4ccd-b3b5-b4f571170fd2" />
+  
   <img width="232" height="265" alt="image" src="https://github.com/user-attachments/assets/26a3d15e-2c33-49cd-aede-08143303a341" />
 
 
