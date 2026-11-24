@@ -8,7 +8,7 @@
 <img width="358" height="327" alt="image" src="https://github.com/user-attachments/assets/46055aad-6105-4922-a3d9-4554fc529976" />
 
 ##
-- Importar BCD
+- Importar *Banco de Dados*
 
 ##
 
